@@ -7,7 +7,7 @@ This API provides endpoints for handling location-based services, including coll
 
 ## env variables
 - **CONNECTION_STRING** = `<CONNECTION STRING>`
-- **ACCESS_TOKEN_SECRET** = <ACCESS KEY>`
+- **ACCESS_TOKEN_SECRET** = `<ACCESS KEY>`
 - **PORT** = `<PORT NUMBER>`
 - **EMAIL_USER** = `<EMAIL FROM WHICH RESET PASSWORD TOKEN WILL BE SENT> `
 - **EMAIL_PASSWORD**= `<PASSWORD OF EMAIL>`
