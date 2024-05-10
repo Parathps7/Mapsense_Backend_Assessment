@@ -115,6 +115,6 @@ Finds the closest coordinates along with Haversine distance from user coordinate
 ## Extra Features
 
 - **JWT Authentication**: User authentication is implemented using JWT tokens. Endpoints requiring authorization expect a Bearer token in the request header.
-- **User Endpoints**: User endpoints for authentication, such as login and registration, are available.
+- **User Endpoints**: User endpoints for authentication, such as login, registration, forget-password, reset-password are available.
 ---
 
